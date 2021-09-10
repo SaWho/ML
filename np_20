@@ -1,0 +1,1 @@
+the answer is given by print (np.unravel_index(100, (6,7,8)))
